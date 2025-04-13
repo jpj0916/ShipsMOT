@@ -26,11 +26,11 @@
 
 **Category Variation**   ShipsMOT includes 15 categories common in real-world ship sailing scenarios, helping models refine the understanding of general ship features and attributes for more accurate detection and tracking.   
 
-<img src="D:\C盘瘦身搬家目录\不同条件下的船舶图片\all.jpg.png" style="zoom:67%;" />
+<img src="all.jpg.png" style="zoom:67%;" />
 
  **Background Variation**   It covers six distinct water environments (e.g., city, coast, harbor) to capture ships’ sailing status across real-world water scenarios, enhancing the model’s generalization and practical applicability.   
 
-<img src="D:\C盘瘦身搬家目录\不同条件下的船舶图片\不同场景.jpg" style="zoom:67%;" />
+<img src=".jpg" style="zoom:67%;" />
 
 **Illumination Variation**   Object images under diverse lighting conditions—sunny days, cloudy days, sunrise, sunset, and night—are included to ensure robust performance in various lighting scenarios for ship detection and tracking.   
 
