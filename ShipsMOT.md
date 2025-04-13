@@ -34,15 +34,15 @@
 
 **Illumination Variation**   Object images under diverse lighting conditions—sunny days, cloudy days, sunrise, sunset, and night—are included to ensure robust performance in various lighting scenarios for ship detection and tracking.   
 
-<img src="D:\C盘瘦身搬家目录\不同条件下的船舶图片\不同光照.jpg" style="zoom:67%;" />
+<img src="different_light.jpg" style="zoom:67%;" />
 
 **Viewpoint Variation**   Integrates multiple viewpoints (aerial, side, front views) and observations from different positions/altitudes, offering rich viewpoint diversity for model training.   
 
-<img src="D:\C盘瘦身搬家目录\不同条件下的船舶图片\不同视角.jpg" style="zoom:67%;" />
+<img src="different views.jpg" style="zoom:67%;" />
 
 **Scale Variation**   Contains ships of various scales, from large passenger ships/oil carriers to small crafts (canoes, kayaks), and includes scale differences of the same ship type due to distance variations.    
 
-<img src="D:\C盘瘦身搬家目录\不同条件下的船舶图片\不同尺度.jpg" style="zoom:67%;" />
+<img src="different scales.jpg" style="zoom:67%;" />
 
 **Occlusion Scenarios**   Incorporates scenarios where ships are partially/fully occluded by other ships, buildings, or natural scenery, evaluating tracking methods’ performance in handling occlusions for detection and multi-object tracking.  
 
@@ -50,11 +50,11 @@
 
 **Object Similarity**   Includes numerous videos of ships with similar appearances during real-world sailing/berthing, improving the Re-ID performance of tracking models.  
 
-<img src="D:\C盘瘦身搬家目录\不同条件下的船舶图片\目标相似.jpg" style="zoom:67%;" />
+<img src="Similar objects.jpg" style="zoom:67%;" />
 
 **Deformation of the Same Object**   Contains videos of the same object’s deformation (scale and viewpoint changes) caused by distance and viewpoint variations in real sailing environments. 
 
-<img src="D:\C盘瘦身搬家目录\不同条件下的船舶图片\形变 (2).jpg" style="zoom:67%;" />
+<img src="deformation.jpg" style="zoom:67%;" />
 
 ## Dataset statistics
 
