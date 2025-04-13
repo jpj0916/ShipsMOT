@@ -2,7 +2,7 @@
 
  ShipsMOT includes both intraclass and interclass variations of ships during sailing, covering categories, lighting conditions, and backgrounds. It addresses real-world challenges such as occlusions and object similarities. The dataset contains 15 ship categories, over 50,000 frames, and 230,000 bounding boxes, providing comprehensive resources for training detection and tracking models.
 
- The dataset is available at www.baiduyun.com
+ The dataset is available at  https://pan.baidu.com/s/1gpmnm4zN2n7rI9KbWbJvDA?pwd=vgqv code ：vgqv
 
 ## Details
 
