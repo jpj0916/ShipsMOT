@@ -30,11 +30,11 @@
 
  **Background Variation**   It covers six distinct water environments (e.g., city, coast, harbor) to capture ships’ sailing status across real-world water scenarios, enhancing the model’s generalization and practical applicability.   
 
-<img src=".jpg" style="zoom:67%;" />
+<img src="different backgrounds.jpg" style="zoom:67%;" />
 
 **Illumination Variation**   Object images under diverse lighting conditions—sunny days, cloudy days, sunrise, sunset, and night—are included to ensure robust performance in various lighting scenarios for ship detection and tracking.   
 
-<img src="different_light.jpg" style="zoom:67%;" />
+<img src="different lightings.jpg" style="zoom:67%;" />
 
 **Viewpoint Variation**   Integrates multiple viewpoints (aerial, side, front views) and observations from different positions/altitudes, offering rich viewpoint diversity for model training.   
 
@@ -86,7 +86,7 @@
 |    Ore carrier     |      8591      |
 | Bulk cargo carrier |     19190      |
 
-<img src="C:\Users\Hp\AppData\Roaming\Typora\typora-user-images\image-20250321105807560.png" alt="image-20250321105807560" style="zoom:67%;" />
+<img src="box ration.png" alt="image-20250321105807560" style="zoom:67%;" />
 
 | Scale  | Pixel area      | Number of  Objects |
 | ------ | --------------- | ------------------ |
