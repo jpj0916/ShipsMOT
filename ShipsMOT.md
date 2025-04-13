@@ -46,7 +46,7 @@
 
 **Occlusion Scenarios**   Incorporates scenarios where ships are partially/fully occluded by other ships, buildings, or natural scenery, evaluating tracking methods’ performance in handling occlusions for detection and multi-object tracking.  
 
-<img src="D:\C盘瘦身搬家目录\不同条件下的船舶图片\遮挡.jpg" style="zoom:67%;" />
+<img src="obstacles.jpg" style="zoom:67%;" />
 
 **Object Similarity**   Includes numerous videos of ships with similar appearances during real-world sailing/berthing, improving the Re-ID performance of tracking models.  
 
