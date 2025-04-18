@@ -134,7 +134,7 @@ with open("test.txt", "r", encoding="utf-8") as file:
 
 JDR-CSTrack/ultralytics/nn/modules/block.py
 
-***replace  # /MutliCSP***
+***Locate the module named BottleneckCSP, comment it out, and then uncomment the module commented as #MultiCSP.***
 
 <details open>
 <summary>RFB_CA</summary>
@@ -148,5 +148,5 @@ JDR-CSTrack/ultralytics/cfg/models/v8
 
 JDR-CSTrack/ultralytics/utils/loss.py
 
-***replace  # /Wiou***
+***Locate the module commented as #WIOU, and then uncomment the module.***
 
