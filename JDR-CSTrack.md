@@ -24,7 +24,7 @@ from ultralytics import YOLO
 import os
 def train():
     # Load a model 
-    model = YOLO("ultralytics/yolov8x.pt")  # load a pretrained model (recommended for training)
+    model = YOLO("ultralytics/yolov8n.pt")  # load a pretrained model (recommended for training)
     results = model.train(data='cocovoc/mydata.yaml',epochs=100,imgsz=640,batch=2,save_period=10,amp=False)
 if __name__ == "__main__":
     train()
